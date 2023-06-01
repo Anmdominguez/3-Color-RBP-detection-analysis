@@ -1,0 +1,192 @@
+Ch2 Nuclear ROI not detected in: 10_00.tif
+Ch1 Nuclear ROI not detected in: 10_00.tif
+Ch2 Nuclear ROI not detected in: 10_02.tif
+Ch1 Nuclear ROI not detected in: 10_02.tif
+Ch2 Nuclear ROI not detected in: 10_03.tif
+Ch1 Nuclear ROI not detected in: 10_03.tif
+Ch2 Nuclear ROI not detected in: 10_05.tif
+Ch1 Nuclear ROI not detected in: 10_05.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 107_00.tif
+Ch1 Nuclear ROI not detected in: 107_00.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch1 Intersection in: 107_10.tif
+Ch1 Nuclear ROI not detected in: 107_17.tif
+Ch2 Nuclear ROI not detected in: 107_18.tif
+Ch1 Nuclear ROI not detected in: 107_18.tif
+Ch2 Nuclear ROI not detected in: 109_14.tif
+Ch1 Nuclear ROI not detected in: 109_14.tif
+Ch1 Nuclear ROI not detected in: 109_16.tif
+Ch2 Nuclear ROI not detected in: 125_09.tif
+Ch1 Nuclear ROI not detected in: 125_09.tif
+Ch2 Nuclear ROI not detected in: 125_10.tif
+Ch1 Nuclear ROI not detected in: 125_10.tif
+Ch2 Nuclear ROI not detected in: 125_11.tif
+Ch1 Nuclear ROI not detected in: 125_11.tif
+Ch2 Nuclear ROI not detected in: 17_00.tif
+Ch1 Nuclear ROI not detected in: 17_00.tif
+Ch2 Nuclear ROI not detected in: 17_01.tif
+Ch1 Nuclear ROI not detected in: 17_01.tif
+Ch2 Nuclear ROI not detected in: 17_02.tif
+Ch1 Nuclear ROI not detected in: 17_02.tif
+Ch2 Nuclear ROI not detected in: 17_03.tif
+Ch1 Nuclear ROI not detected in: 17_03.tif
+Ch2 Nuclear ROI not detected in: 17_05.tif
+Ch1 Nuclear ROI not detected in: 17_05.tif
+Ch2 Nuclear ROI not detected in: 17_06.tif
+Ch1 Nuclear ROI not detected in: 17_06.tif
+Ch2 Nuclear ROI not detected in: 17_07.tif
+Ch1 Nuclear ROI not detected in: 17_07.tif
+17_08.tif has 2 ROIs; Skipping
+Ch2 Nuclear ROI not detected in: 17_09.tif
+Ch1 Nuclear ROI not detected in: 17_09.tif
+Ch2 Nuclear ROI not detected in: 17_10.tif
+Ch1 Nuclear ROI not detected in: 17_10.tif
+Ch2 Nuclear ROI not detected in: 17_11.tif
+Ch1 Nuclear ROI not detected in: 17_11.tif
+17_12.tif has 2 ROIs; Skipping
+Ch2 Nuclear ROI not detected in: 17_13.tif
+Ch1 Nuclear ROI not detected in: 17_13.tif
+Ch2 Nuclear ROI not detected in: 17_14.tif
+Ch1 Nuclear ROI not detected in: 17_14.tif
+Ch2 Nuclear ROI not detected in: 17_15.tif
+Ch1 Nuclear ROI not detected in: 17_15.tif
+Ch2 Nuclear ROI not detected in: 17_16.tif
+Ch1 Nuclear ROI not detected in: 17_16.tif
+Ch2 Nuclear ROI not detected in: 17_17.tif
+Ch1 Nuclear ROI not detected in: 17_17.tif
+Ch2 Nuclear ROI not detected in: 17_18.tif
+Ch1 Nuclear ROI not detected in: 17_18.tif
+Ch2 Nuclear ROI not detected in: 17_19.tif
+Ch1 Nuclear ROI not detected in: 17_19.tif
+Ch2 Nuclear ROI not detected in: 17_20.tif
+Ch1 Nuclear ROI not detected in: 17_20.tif
+18_08.tif has 2 ROIs; Skipping
+18_12.tif has 2 ROIs; Skipping
+Ch2 Nuclear ROI not detected in: 25_00.tif
+Ch1 Nuclear ROI not detected in: 25_00.tif
+Ch2 Nuclear ROI not detected in: 25_01.tif
+Ch1 Nuclear ROI not detected in: 25_01.tif
+Ch2 Nuclear ROI not detected in: 25_02.tif
+Ch1 Nuclear ROI not detected in: 25_02.tif
+Ch2 Nuclear ROI not detected in: 25_03.tif
+Ch1 Nuclear ROI not detected in: 25_03.tif
+Ch2 Nuclear ROI not detected in: 25_04.tif
+Ch1 Nuclear ROI not detected in: 25_04.tif
+Ch2 Nuclear ROI not detected in: 25_05.tif
+Ch1 Nuclear ROI not detected in: 25_05.tif
+Ch2 Nuclear ROI not detected in: 25_06.tif
+Ch1 Nuclear ROI not detected in: 25_06.tif
+Ch2 Nuclear ROI not detected in: 25_07.tif
+Ch1 Nuclear ROI not detected in: 25_07.tif
+Ch2 Nuclear ROI not detected in: 25_08.tif
+Ch1 Nuclear ROI not detected in: 25_08.tif
+Ch1 Nuclear ROI not detected in: 25_09.tif
+Ch2 Nuclear ROI not detected in: 25_10.tif
+Ch1 Nuclear ROI not detected in: 25_10.tif
+Ch2 Nuclear ROI not detected in: 25_11.tif
+Ch1 Nuclear ROI not detected in: 25_11.tif
+Ch2 Nuclear ROI not detected in: 25_13.tif
+Ch1 Nuclear ROI not detected in: 25_13.tif
+Ch2 Nuclear ROI not detected in: 25_14.tif
+Ch1 Nuclear ROI not detected in: 25_14.tif
+Ch2 Nuclear ROI not detected in: 25_15.tif
+Ch1 Nuclear ROI not detected in: 25_15.tif
+Ch2 Nuclear ROI not detected in: 25_16.tif
+Ch1 Nuclear ROI not detected in: 25_16.tif
+Ch2 Nuclear ROI not detected in: 25_17.tif
+Ch1 Nuclear ROI not detected in: 25_17.tif
+Ch2 Nuclear ROI not detected in: 25_19.tif
+Ch1 Nuclear ROI not detected in: 25_19.tif
+Ch2 Nuclear ROI not detected in: 25_20.tif
+Ch1 Nuclear ROI not detected in: 25_20.tif
+Ch2 Nuclear ROI not detected in: 25_21.tif
+Ch1 Nuclear ROI not detected in: 25_21.tif
+Ch2 Nuclear ROI not detected in: 25_22.tif
+Ch1 Nuclear ROI not detected in: 25_22.tif
+Ch2 Nuclear ROI not detected in: 34_06.tif
+Ch1 Nuclear ROI not detected in: 34_06.tif
+Ch2 Nuclear ROI not detected in: 34_18.tif
+Ch1 Nuclear ROI not detected in: 34_18.tif
+39_18.tif has 2 ROIs; Skipping
+40_18.tif has 2 ROIs; Skipping
+Ch2 Nuclear ROI not detected in: 47_00.tif
+Ch1 Nuclear ROI not detected in: 47_00.tif
+Ch1 Nuclear ROI not detected in: 47_01.tif
+Ch1 Nuclear ROI not detected in: 47_09.tif
+Ch1 Nuclear ROI not detected in: 47_16.tif
+Ch2 Nuclear ROI not detected in: 47_17.tif
+Ch1 Nuclear ROI not detected in: 47_17.tif
+Ch2 Nuclear ROI not detected in: 47_18.tif
+Ch1 Nuclear ROI not detected in: 47_18.tif
+Ch2 Nuclear ROI not detected in: 52_18.tif
+Ch1 Nuclear ROI not detected in: 52_18.tif
+57_03.tif has 2 ROIs; Skipping
+63_12.tif has 2 ROIs; Skipping
+64_03.tif has 2 ROIs; Skipping
+67_12.tif has 2 ROIs; Skipping
+Ch2 Nuclear ROI not detected in: 7_19.tif
+Ch1 Nuclear ROI not detected in: 7_19.tif
+Ch2 Nuclear ROI not detected in: 70_00.tif
+Ch1 Nuclear ROI not detected in: 70_00.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_01.tif
+Ch1 Nuclear ROI not detected in: 70_01.tif
+Ch2 Nuclear ROI not detected in: 70_02.tif
+Ch1 Nuclear ROI not detected in: 70_02.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_03.tif
+Ch1 Nuclear ROI not detected in: 70_03.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_04.tif
+Ch1 Nuclear ROI not detected in: 70_04.tif
+Ch2 Nuclear ROI not detected in: 70_05.tif
+Ch1 Nuclear ROI not detected in: 70_05.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_06.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch1 Intersection in: 70_06.tif
+Ch2 Nuclear ROI not detected in: 70_07.tif
+Ch1 Nuclear ROI not detected in: 70_07.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_08.tif
+Ch1 Nuclear ROI not detected in: 70_08.tif
+Ch2 Nuclear ROI not detected in: 70_09.tif
+Ch1 Nuclear ROI not detected in: 70_09.tif
+Ch2 Nuclear ROI not detected in: 70_10.tif
+Ch1 Nuclear ROI not detected in: 70_10.tif
+Ch2 Nuclear ROI not detected in: 70_11.tif
+Ch1 Nuclear ROI not detected in: 70_11.tif
+Ch2 Nuclear ROI not detected in: 70_12.tif
+Ch1 Nuclear ROI not detected in: 70_12.tif
+Ch2 Nuclear ROI not detected in: 70_13.tif
+Ch1 Nuclear ROI not detected in: 70_13.tif
+Ch2 Nuclear ROI not detected in: 70_14.tif
+Ch1 Nuclear ROI not detected in: 70_14.tif
+Check Output!! No Nuclear/Foci overlap to generate Ch2 Intersection in: 70_15.tif
+Ch1 Nuclear ROI not detected in: 70_15.tif
+Ch2 Nuclear ROI not detected in: 70_16.tif
+Ch1 Nuclear ROI not detected in: 70_16.tif
+Ch2 Nuclear ROI not detected in: 70_19.tif
+Ch1 Nuclear ROI not detected in: 70_19.tif
+Ch2 Nuclear ROI not detected in: 70_20.tif
+Ch1 Nuclear ROI not detected in: 70_20.tif
+Ch2 Nuclear ROI not detected in: 70_21.tif
+Ch1 Nuclear ROI not detected in: 70_21.tif
+Ch2 Nuclear ROI not detected in: 70_23.tif
+Ch1 Nuclear ROI not detected in: 70_23.tif
+Ch2 Nuclear ROI not detected in: 80_11.tif
+Ch1 Nuclear ROI not detected in: 80_11.tif
+Ch2 Nuclear ROI not detected in: 80_12.tif
+Ch1 Nuclear ROI not detected in: 80_12.tif
+Ch2 Nuclear ROI not detected in: 80_13.tif
+Ch1 Nuclear ROI not detected in: 80_13.tif
+Ch2 Nuclear ROI not detected in: 80_14.tif
+Ch1 Nuclear ROI not detected in: 80_14.tif
+Ch2 Nuclear ROI not detected in: 80_15.tif
+Ch1 Nuclear ROI not detected in: 80_15.tif
+Ch2 Nuclear ROI not detected in: 80_18.tif
+Ch1 Nuclear ROI not detected in: 80_18.tif
+====================================================
+
+Foci Measurements Completed
+
+Parameters: 
+		Foci Dilation: 0.3
+		Number of timepoints: 21
+		Number of cells analyzed: 65
+
+Csv and log files can be found in: 
+/Users/andrewd/Desktop/Analysis_Workspace/Dilute/Copper/Decon/
